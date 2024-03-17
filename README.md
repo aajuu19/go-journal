@@ -5,7 +5,8 @@ As I am learning go, I wanted to play around with the language and the file syst
 - Add a journal entry as an md file using vim
 - Edit a journal entry using vim
 - Feature which allows you to select the files from a list in the cli
-- preview a journal entry in the CLI using glow
+- Preview a journal entry in the CLI using glow
+- Delete a journal entry
 
 ## Usage
 
